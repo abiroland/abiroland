@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence methods for public health researsch
 - 🌱 I’m currently learning Machine Learning and Deep learning 
 - 💞️ I’m looking to collaborate on public health research
-- 📫 How to reach me @edameabi
+- 📫 How to reach me ra0033a@american.edu
 
 <!---
 abiroland/abiroland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
