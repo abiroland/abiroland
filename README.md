@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abiroland
-- 👀 I’m interested in Artificial Intelligence methods for public health researsch
+- 👀 I’m interested in Artificial Intelligence methods for public health, medtech, business and researsch
 - 🌱 I’m currently learning Machine Learning and Deep learning 
 - 💞️ I’m looking to collaborate on public health research
 - 📫 How to reach me abiroland02@gmail.com
