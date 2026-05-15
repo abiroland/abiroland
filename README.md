@@ -1,4 +1,4 @@
 - 🔭 I’m Roland
 - 🌱 I’m a Data Scientist
 - 💬 Ask me about Data Science, Predictive Model Monitoring and AI Engineering
-- 📫 How to reach me: /in/roland-abi on LinkedIn
+- 📫 How to reach me: [/in/roland-abi](https://www.linkedin.com/in/roland-abi/) on LinkedIn
